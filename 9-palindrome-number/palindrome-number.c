@@ -1,5 +1,4 @@
 bool isPalindrome(int x) {
-    int y=x;
     if(x<0){
         return false;
     }else{
